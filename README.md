@@ -1,14 +1,14 @@
-# 软件及资源
+# 关注公众号：拾光趣乐屋
+①号坑https://xmbjm.github.io
 
-https://www.123pan.com/s/sPNbVv-67SXv
+②号坑http://xmbjm.fh4u.org
 
-# 在线源订阅链接：
+# 拾光的小仓库
+# 自用随意拷贝
+# 切勿贩卖
+# 我们是分享,我们是爱国,我免费我自豪！
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
-https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
-
-https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 
 “本地资源”自定义主页logo（影视2.3.4+）
 位置：根目录/TVBox/logo.png
